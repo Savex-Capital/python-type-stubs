@@ -23,6 +23,6 @@ setup(
         "matplotlib-stubs",
         "sklearn-stubs"
     ],
-    python_requires=">=3.10,<3.12",
+    python_requires=">=3.10,<3.13",
     zip_safe=False,
 )
